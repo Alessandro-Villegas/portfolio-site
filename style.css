@@ -25,7 +25,7 @@ body {
 }
 
 #profile-img {
-  background-image: url('/img/Myself.jpg');
+  background-image: url('/img/myself.jpg');
   background-position: center;
   background-size: cover;
   border-radius: 50%; 
